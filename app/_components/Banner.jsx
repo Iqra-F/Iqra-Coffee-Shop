@@ -59,7 +59,7 @@ const Banner = () => {
                   <a className="btn  hover:bg-white w-full sm:w-auto text-lg shadow-sm  mb-4 sm:mb-0 sm:mr-3 md:tracking-wider bg-black hover:text-black text-white">
                     Download App
                   </a>
-                  <a className="btn hover:bg-black w-full sm:w-auto text-lg font-semibold shadow-sm  bg-white md:tracking-wider hover:text-white text-black">
+                  <a className="btn hover:bg-black w-full sm:w-auto text-md font-semibold shadow-sm  bg-white md:tracking-wider hover:text-white text-black">
                    Shop Iqra's Coffee
                   </a>{" "}
                 </div>
@@ -128,7 +128,7 @@ const Banner = () => {
                   <a className="btn  hover:bg-white w-full sm:w-auto text-lg shadow-sm   mb-4 sm:mb-0 sm:mr-3 md:tracking-wider bg-black hover:text-black text-white">
                     Download App
                   </a>
-                  <a className="btn hover:bg-black w-full font-semibold sm:w-auto text-lg  shadow-sm  bg-white md:tracking-wider hover:text-white text-black">
+                  <a className="btn hover:bg-black w-full font-semibold sm:w-auto text-md  shadow-sm  bg-white md:tracking-wider hover:text-white text-black">
                     Shop Iqra's Coffee
                   </a>{" "}
                 </div>
@@ -197,7 +197,7 @@ const Banner = () => {
                   <a className="btn  hover:bg-white w-full sm:w-auto text-lg shadow-sm  mb-4 sm:mb-0 sm:mr-3 md:tracking-wider bg-black hover:text-black text-white">
                     Download App
                   </a>
-                  <a className="btn hover:bg-black font-semibold w-full sm:w-auto text-lg  shadow-sm  bg-white md:tracking-wider hover:text-white text-black">
+                  <a className="btn hover:bg-black font-semibold w-full sm:w-auto text-md  shadow-sm  bg-white md:tracking-wider hover:text-white text-black">
                     Shop Iqra's Coffee
                   </a>{" "}
                 </div>
