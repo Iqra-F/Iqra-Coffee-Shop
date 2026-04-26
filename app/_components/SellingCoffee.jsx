@@ -26,7 +26,7 @@ const SellingCoffee = () => {
               data-aos-anchor-placement="center-bottom"
               data-aos-offset="200"
               data-aos-delay="0"
-              data-aos-duration="0"
+              data-aos-duration="100"
               data-aos-easing="ease-in-out"
               data-aos-mirror="true"
               data-aos-once="false"
