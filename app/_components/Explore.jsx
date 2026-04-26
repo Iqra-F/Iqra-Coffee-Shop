@@ -26,7 +26,7 @@ const Explore = () => {
         {/* ____________________ */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-20 pb-28 mx-20 xl:mx-24">
           <div
-            className="1 card hover:scale-105 transition-all bg-white shadow-xl"
+            className="1 card hover:scale-105 transition-all bg-white hover:shadow-2xl shadow-xl"
             data-aos="fade-up"
             data-aos-anchor-placement="center-bottom"
             data-aos-offset="200"
@@ -58,7 +58,7 @@ const Explore = () => {
           </div>
           {/* ____________________ */}
           <div
-            className="2 card  lg:scale-105 hover:scale-110 transition-all bg-white shadow-xl"
+            className="2 card  lg:scale-105 hover:scale-110 transition-all bg-white hover:shadow-2xl shadow-xl"
             data-aos="fade-up"
             data-aos-anchor-placement="center-bottom"
             data-aos-offset="200"
@@ -90,7 +90,7 @@ const Explore = () => {
           </div>
           {/* ____________________ */}
           <div
-            className="3 card hover:scale-105 transition-all bg-white shadow-xl"
+            className="3 card hover:scale-105 transition-all bg-white hover:shadow-2xl shadow-xl"
             data-aos="fade-up"
             data-aos-anchor-placement="center-bottom"
             data-aos-offset="200"
