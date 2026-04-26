@@ -19,8 +19,8 @@ const Header = () => {
         <li>
           <a>Cafe Menu</a>
           <ul className="p-2">
-          <li><a>Coffee 1</a></li> 
-          <li><a>Coffee 2</a></li>
+          <li>Coffee 1</li> 
+          <li>Coffee 2</li>
           </ul>
         </li>
         <li><a>About Us</a></li>
