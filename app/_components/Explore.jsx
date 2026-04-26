@@ -58,7 +58,7 @@ const Explore = () => {
           </div>
           {/* ____________________ */}
           <div
-            className="2 card  lg:scale-105 hover:scale-110 transition-all  bg-base-100  shadow-xl"
+            className="2 card  lg:scale-105 hover:scale-110 transition-all bg-white shadow-xl"
             data-aos="fade-up"
             data-aos-anchor-placement="center-bottom"
             data-aos-offset="200"
